@@ -12,8 +12,8 @@ while(m!=0)
          for(j=0;j<i;j++)
             {
              printf("%d",i);
-             goto front;
-            }
+             
+            }goto front;
          }else
          {
          printf("%d",i);
